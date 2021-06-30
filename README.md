@@ -23,5 +23,4 @@ The final deliverable was to create tables within postgreSQL as seen in Figure1 
 !['ratings_query.PNG'](./Resources/ratings_query.PNG)
 
 ## Summary
-Within this project there were many different ways to clense the datasets.  The trick seems to be to utilize the appropriate tool, function, method to get the desired result.  Although this, at times, can take a bit of work, it can take quite a bit of time and can be challenging.  Each project provides a new and unique set of challenges, so finding the best most efficient way of clensing the data is the most time consuming part.  However, in the end it's quite rewarding when you see the finished product and can provide solid value to the client.
-
+Within this project there were many different ways to clense the datasets.  The trick seems to be to utilize the most appropriate tool, function and/or method to get the desired result.  Although this may be quite a bit of work, it can take some time to do the work and can be frustrating.  Each project provides a new and unique set of requirements, so finding the best most efficient way of transforming the data is the most time-consuming piece.  However, in the end, it's quite rewarding when you see the finished product and can provide solid value to the client.
